@@ -1,7 +1,7 @@
 pipeline {
 
   agent {
-    label 'agent_java'
+    label 'Linux'
   }
 
   stages {
